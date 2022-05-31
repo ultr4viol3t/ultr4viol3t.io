@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to WARYes Link Collection
 
-You can use the [editor on GitHub](https://github.com/ultr4viol3t/ultr4viol3t.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Controls
+[Cheat Sheet](https://discordapp.com/channels/721476014664056932/956582263779364934/958371451407323147)
 
 ### Markdown
 
